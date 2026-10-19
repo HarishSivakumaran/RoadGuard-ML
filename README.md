@@ -1,4 +1,4 @@
-# RoadVision-ViT: Pothole Segmentation via Custom Vision Transformers in JAX/Flax
+# RoadGuard-ViT: Pothole Segmentation via Custom Vision Transformers in JAX/Flax
 
 [![JAX](https://img.shields.io/badge/JAX-0.4+-blue.svg?logo=google&logoColor=white)](https://github.com/google/jax)
 [![Flax](https://img.shields.io/badge/Flax-Linen-red.svg)](https://github.com/google/flax)
